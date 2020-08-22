@@ -7,6 +7,11 @@
 using namespace std;
 
 
+// plantilla de funcion
+
+
+
+
 int main()
 {
     std::cout << "Hello World!\n";
