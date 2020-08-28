@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="Genericidad.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="mayor.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
